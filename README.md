@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 
 # Clone this repository
 
-https://github.com/IshikaSinghRajput/React-projects-for-beginners.git
+ https://github.com/Rajeshkumar42/Digital-clock.git
 
 # Go into the project directory
 
